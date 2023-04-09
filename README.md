@@ -13,7 +13,7 @@ The links below are for the Fall 2020 term.
 ## Studied
 | Lecture | Topic                                                              | Note                                                                                              | Textbook Chapters        | 
 |---------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------------|
-| 1       | Introduction                                                       | [My Note]()  | 1.1 - 1.2                |                                                                                          |
+| 1       | Introduction                                                       | [My Note](https://github.com/yjna08/Contemporary-Linear-Algebra/blob/main/Note/Lecture1.pdf)  | 1.1 - 1.2                |                                                                                          |
 
 
 
